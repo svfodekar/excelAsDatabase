@@ -148,3 +148,9 @@ await localExcelDb.delete(deleteSql);
 
 ## Contributing
 Feel free to contribute by opening issues, submitting pull requests, or suggesting improvements. Your feedback is valuable!
+Git repository - https://github.com/svfodekar/excelAsDatabase
+
+## Author
+**Saurabh Foddekar**
+- Email: svfodekar@gmail.com
+- LinkedIn: [Saurabh Fodekar](https://www.linkedin.com/in/saurabh-fodekar-b094591b4)
